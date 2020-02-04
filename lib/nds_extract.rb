@@ -33,6 +33,5 @@ def directors_totals(nds)
     end
     column_index += 1
   end
-  binding.pry
   return result
 end
